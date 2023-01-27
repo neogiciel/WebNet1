@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aSQQWBDA7GgfgGDn6r8dQNDmsa8zd8DKyvXTg/Y5SzSjxtF4Jp736VnVgty3B/sFOyzHdKm32vh+zsz/o4lNig==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\net\\WebNet1\\WebNet1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
